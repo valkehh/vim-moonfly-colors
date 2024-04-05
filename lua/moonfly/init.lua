@@ -11,7 +11,7 @@ if g.moonflyTransparent then
 end
 -- Variations of charcoal-grey
 local grey0 = "#001d36"
-local grey1 = "#373c4d"
+local grey1 = "#001d36"
 local grey89 = "#e4e4e4"
 local grey70 = "#b2b2b2"
 local grey62 = "#9e9e9e"
