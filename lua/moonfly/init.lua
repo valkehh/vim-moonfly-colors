@@ -23,7 +23,7 @@ local grey27 = "#444444"
 local grey23 = "#3a3a3a"
 local grey18 = "#2e2e2e"
 local grey15 = "#262626"
-local grey11 = "#001d36"
+local grey11 = "#5a87ad"
 local grey7 = "#121212"
 -- Core theme colors
 local khaki = "#c6c684"
